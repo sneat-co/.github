@@ -1,10 +1,15 @@
 # Open-source by Sneat.co
 
-## Sneat.app
+## [Sneat-apps](https://github.com/sneat-co/sneat-apps)
+
+[Sneat.app](https://sneat.app) is an extandable platform that allows to build apps with extension modules.
+
+The root repositories for developing sneat apps are:
+
+- [sneat-apps](https://github.com/sneat-co/sneat-apps) - the frontend.
+- [sneat-go-backend](https://github.com/sneat-co/sneat-go-backend) - the backend in Go language.
 
 ### Modules for sneat.app
-
-Sneat.app is an extandable platform that allows to build apps with extension modules.
 
 You can develop your own module by creating a new repo from [sneat-mod-template](https://github.com/sneat-co/sneat-mod-template).
 
