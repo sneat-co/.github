@@ -1,4 +1,4 @@
-# Sneat-co - open-source by Sneat.co
+# Open-source by Sneat.co
 
 ## Sneat.app
 
