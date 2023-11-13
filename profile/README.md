@@ -1,4 +1,5 @@
 # Open-source by Sneat.co
+For setting up local dev environment see [sneat-devenv](https://github.com/sneat-co/sneat-devenv).
 
 ## [Sneat-apps](https://github.com/sneat-co/sneat-apps)
 
