@@ -1,6 +1,10 @@
 # Open-source by Sneat.co
 For setting up local dev environment see [sneat-devenv](https://github.com/sneat-co/sneat-devenv).
 
+## Promoted discussions
+
+- [Best tag-line for Sneat.app?](https://github.com/sneat-co/sneat-apps/discussions/1568)
+
 ## [Sneat-apps](https://github.com/sneat-co/sneat-apps)
 
 [Sneat.app](https://sneat.app) is an extandable platform that allows to build apps with extension modules.
